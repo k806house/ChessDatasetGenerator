@@ -1,0 +1,4 @@
+C:\Users\julia\source\repos\JsonExample\JsonExample\bin\Debug\netcoreapp3.0\JsonExample.exe
+C:\Users\julia\source\repos\JsonExample\JsonExample\obj\Debug\netcoreapp3.0\JsonExample.csprojAssemblyReference.cache
+C:\Users\julia\source\repos\JsonExample\JsonExample\obj\Debug\netcoreapp3.0\JsonExample.AssemblyInfoInputs.cache
+C:\Users\julia\source\repos\JsonExample\JsonExample\obj\Debug\netcoreapp3.0\JsonExample.AssemblyInfo.cs
