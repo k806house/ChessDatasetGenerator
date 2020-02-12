@@ -1,0 +1,62 @@
+{
+  "boardPositionX": {
+    "start": -10,
+    "end": 10
+  },
+  "boardPositionY": {
+    "start": -10,
+    "end": 10
+  },
+  "cameraRadius": {
+    "start": 86,
+    "end": 86
+  },
+  "cameraPhi": {
+    "start": 10,
+    "end": 20
+  },
+  "cameraTheta": {
+    "start": 30,
+    "end": 180
+  },
+  "spotLightNumber": {
+    "start": 0,
+    "end": 0
+  },
+  "spotLightPositionX": {
+    "start": -30,
+    "end": 10
+  },
+  "spotLightPositionY": {
+    "start": -30,
+    "end": 10
+  },
+  "spotLightPositionZ": {
+    "start": 20,
+    "end": 20
+  },
+  "spotLightBrightness": {
+    "start": 10,
+    "end": 10
+  },
+  "ambientLightBrightness": {
+    "start": 0.5,
+    "end": 0.5
+  },
+  "ambientLightPhi": {
+    "start": 1,
+    "end": 360
+  },
+  "chessBoardWidth": {
+    "start": 1,
+    "end": 2
+  },
+  "chessmanOffset": {
+    "start": 0,
+    "end": 1
+  },
+  "screenshotPerFen": 10,
+  "screenshotWidth": 1280,
+  "screenshotHeight": 720,
+  "pathToModels": "kik"
+}
