@@ -103,5 +103,6 @@ Example:
 
 ### Sample generated images
 
-[001.jpg](Examples/001.jpg)
-[002.jpg](Examples/002.jpg)
+![001.jpg](Examples/001.jpg)
+
+![002.jpg](Examples/002.jpg)
